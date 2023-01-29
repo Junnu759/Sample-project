@@ -9,6 +9,7 @@ function App() {
     <Header></Header>
       <div className="Card-con">
         <Card></Card>
+        <Card></Card>
       
        </div>
        </div>
